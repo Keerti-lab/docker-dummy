@@ -1,3 +1,3 @@
 FROM almalinux:9
-ENV Key="valuess"
-CMD ["slep","100"]
+ENV Keyw="valuess"
+CMD ["sleep","100"]
